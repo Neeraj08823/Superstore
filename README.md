@@ -56,12 +56,12 @@ To analyze retail sales data and create compelling visualizations using **Tablea
 
 The report includes the following visualizations:
 
-1. 📉 **Monthly Sales and Profit Trends**
-2. 📦 **Profitability by Sub-Category**
-3. 🗺️ **Sales and Profit by State (Map)**
-4. 👥 **Segment-wise Sales and Profit Comparison**
-5. 🎯 **Discount vs Profit Scatter Analysis**
-6. 🚚 **Shipping Mode Efficiency (Delivery Days)**
+1. 📉 **Monthly Sales and Profit Trends** [link](https://github.com/Neeraj08823/Superstore/blob/main/screenshots/Monthly%20Sales%20and%20Profit%20Trend.png)
+2. 📦 **Profitability by Sub-Category** [link](https://github.com/Neeraj08823/Superstore/blob/main/screenshots/Profitability%20by%20Sub-Category.png)
+3. 🗺️ **Sales and Profit by State (Map)** [link](https://github.com/Neeraj08823/Superstore/blob/main/screenshots/Sales%20and%20Profit%20by%20State%20(Map).png)
+4. 👥 **Segment-wise Sales and Profit Comparison**[link](https://github.com/Neeraj08823/Superstore/blob/main/screenshots/Segment-wise%20Sales%20and%20Profit%20Comparison.png)
+5. 🎯 **Discount vs Profit Scatter Analysis** [link](https://github.com/Neeraj08823/Superstore/blob/main/screenshots/Discount%20vs%20Profit%20Scatter%20Analysis.png)
+6. 🚚 **Shipping Mode Efficiency (Delivery Days)** [link](https://github.com/Neeraj08823/Superstore/blob/main/screenshots/Shipping%20Mode%20Efficiency%20(Delivery%20Days).png)
 
 ---
 
